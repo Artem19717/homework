@@ -104,3 +104,8 @@ git remote add origin (ссылка с github)
 ```sh
 git branch -M main
 ```
+## Чтобы отправить с локального репозитория в интернет вводим команду:
+
+```sh
+git push -u origin main
+```
