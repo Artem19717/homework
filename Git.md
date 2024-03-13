@@ -109,3 +109,9 @@ git branch -M main
 ```sh
 git push -u origin main
 ```
+## Для того чтобы подтянуть изменения из GitHub в локальный репозиторий нужно ввести команду:
+
+```sh
+git pull
+```
+
